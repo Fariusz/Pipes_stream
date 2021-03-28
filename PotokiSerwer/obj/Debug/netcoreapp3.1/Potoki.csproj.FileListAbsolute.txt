@@ -1,0 +1,13 @@
+C:\Users\Radek\Desktop\Potoki\bin\Debug\netcoreapp3.1\Potoki.exe
+C:\Users\Radek\Desktop\Potoki\bin\Debug\netcoreapp3.1\Potoki.deps.json
+C:\Users\Radek\Desktop\Potoki\bin\Debug\netcoreapp3.1\Potoki.runtimeconfig.json
+C:\Users\Radek\Desktop\Potoki\bin\Debug\netcoreapp3.1\Potoki.runtimeconfig.dev.json
+C:\Users\Radek\Desktop\Potoki\bin\Debug\netcoreapp3.1\Potoki.dll
+C:\Users\Radek\Desktop\Potoki\bin\Debug\netcoreapp3.1\Potoki.pdb
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.csprojAssemblyReference.cache
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.AssemblyInfoInputs.cache
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.AssemblyInfo.cs
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.dll
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.pdb
+C:\Users\Radek\Desktop\Potoki\obj\Debug\netcoreapp3.1\Potoki.genruntimeconfig.cache
